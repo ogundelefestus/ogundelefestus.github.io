@@ -15,7 +15,7 @@ ali {
 }
 
 h2 {
-    font-size: 3em;
+    font-size: 2em;
     letter-spacing: -1px;
     font-weight: 400;
     text-align: center;
@@ -130,11 +130,9 @@ textarea {
     width: 900px;
 }
 
-@media screen and (max-width:450px) {
-    .topnav ul {
-        box-sizing: border-box;
+@media screen and (max-width: 400px) {
+    a {
+        float: none;
         width: 100%;
-        padding: 15px;
-        float: left;
     }
 }
