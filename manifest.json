@@ -1,7 +1,7 @@
 {
   "name": "ogundelefestus.me",
   "short_name": "FestusOgundele",
-  "start_url": "/index.html",
+  "start_url": "/index.html#home",
   "display": "standalone",
   "background_color": "#56c590",
   "theme_color": "#56c590",
